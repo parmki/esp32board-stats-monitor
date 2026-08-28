@@ -12,7 +12,7 @@ The ESP32 will retrieve telemetry such as CPU, RAM, and disk usage from the RHEL
 ## Goals
 
 * Monitor RHEL server performance from dedicated hardware
-* Gain hands-on experience with ESP32 and MicroPython
+* Gain experience with ESP32 and MicroPython
 * Build and deploy a Python telemetry API
 * Practice Linux services with systemd and Gunicorn
 * Learn to secure network services with API authentication and firewalld
